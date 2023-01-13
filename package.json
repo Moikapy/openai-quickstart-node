@@ -1,5 +1,6 @@
 {
-  "name": "openai-quickstart-node",
+  "name": "IOB",
+  "description": "IOB - Intelligent Chatbot powered by OpenAI GPT-3",
   "version": "0.1.0",
   "private": true,
   "scripts": {
